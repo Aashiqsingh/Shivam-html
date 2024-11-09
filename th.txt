@@ -1,0 +1,35 @@
+HTML -- Hyper text markup language 
+
+html founder?
+-Tim berner's lee -- 1991
+
+html 1 -- 1991
+html 2 -- 1995
+html 3 -- (jan , 1997)
+html 4 -- (dec , 1997) - 4.2 --> 2000
+html 5 -- 2014 - 5.2 --> 2017
+
+
+There are two site 
+1. server side
+2. client side -- browser -- html 
+
+
+html use?
+To create a static structure of website or webpages. 
+
+
+Introduced -- 1993 -- tim berner's lee -- first website - https://info.cern.ch
+
+html structure-- 
+
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+
+</body>
+</html>
+
+html extension --> .html / .htm 
